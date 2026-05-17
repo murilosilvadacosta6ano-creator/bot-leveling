@@ -1,0 +1,14 @@
+{
+  "name": "bot-leveling",
+  "version": "1.0.0",
+  "description": "Bot Discord de leveling com cartão de perfil usando @napi-rs/canvas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.0",
+    "@napi-rs/canvas": "^0.1.52",
+    "undici": "^6.0.0"
+  }
+}
